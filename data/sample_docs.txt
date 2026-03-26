@@ -1,0 +1,7 @@
+Artificial Intelligence is transforming industries including healthcare, finance, and transportation.
+
+Machine learning models learn patterns from data to make predictions or decisions without being explicitly programmed.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language models to generate more accurate responses.
+
+Vector embeddings convert text into numerical representations that capture semantic meaning.
